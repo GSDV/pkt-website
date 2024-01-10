@@ -1,0 +1,31 @@
+/* Lemon Milk Font */
+@font-face {
+    font-family: 'LemonMilk-Regular';
+    src: url('../../assets/fonts/lemonmilk/LEMONMILK-Regular.otf') format("opentype");
+}
+@font-face {
+    font-family: 'LemonMilk-Bold';
+    src: url('../../assets/fonts/lemonmilk/LEMONMILK-Bold.otf') format("opentype");
+}
+@font-face {
+    font-family: 'LemonMilk-Light';
+    src: url('../../assets/fonts/lemonmilk/LEMONMILK-Light.otf') format("opentype");
+}
+
+/* Aileron Font */
+@font-face {
+    font-family: "Aileron-Regular";
+    src: url('../../assets/fonts/aileron/Aileron-Regular.otf');
+}
+@font-face {
+    font-family: "Aileron-Bold";
+    src: url('../../assets/fonts/aileron/Aileron-Bold.otf');
+}
+@font-face {
+    font-family: "Aileron-Light";
+    src: url('../../assets/fonts/aileron/Aileron-Light.otf');
+}
+@font-face {
+    font-family: "Aileron-Light-Italic";
+    src: url('../../assets/fonts/aileron/Aileron-LightItalic.otf');
+}

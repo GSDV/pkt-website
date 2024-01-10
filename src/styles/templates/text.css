@@ -1,0 +1,25 @@
+/* PARAGRAPHS */
+.fullWrapper {
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.pWrapper {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+}
+.pTitle {
+    padding-bottom: 20px;
+    font-family: 'Aileron-Bold';
+    font-size: var(--fs2);
+}
+.pText {
+    font-family: 'Aileron-Light';
+    font-size: var(--fs3);
+}
+.pSpacer {
+    width: 100%;
+    height: 50px;
+}

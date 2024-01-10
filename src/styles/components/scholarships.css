@@ -1,0 +1,11 @@
+/* SCHOLARSHIP TEXT */
+.sTitle {
+    font-family: 'Aileron-Bold';
+    font-size: var(--fs3);
+}
+
+.sSpacer {
+    width: 100%;
+    height: 20px;
+}
+
