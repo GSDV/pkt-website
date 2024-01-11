@@ -17,12 +17,18 @@ export default function Index() {
                 <div className='pSpacer'></div>
 
                 <div className='pText'>
+                    Check out our <a target='_blank' href='https://linktr.ee/UIUCPhiKaps'>Linktree</a> for more rush information.
+                </div>
+
+                <div className='pSpacer'></div>
+
+                <div className='pText'>
                     Follow our <a target='_blank' href='https://www.instagram.com/uiucphikaps/'>Instagram</a> to get rush updates and the event list.
                 </div>
 
                 <div className='pSpacer'></div>
 
-                <div style={{display:'flex', justifyContent: 'center' }}>
+                <div style={{display:'flex', justifyContent: 'center'}}>
                     <Link href='https://www.instagram.com/uiucphikaps/' target='_blank'>
                         <Image className='instalogo' src={InstaLogoSrc} alt='Instagram Logo'/>
                     </Link>
