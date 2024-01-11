@@ -16,7 +16,8 @@ export function DesktopNavbar() {
     let leftItems = [
         {title: 'Home', link: './'},
         {title: 'About', link: './about'},
-        {title: 'Scholarships', link: './scholarships'}
+        {title: 'Scholarships', link: './scholarships'},
+        {title: 'Rush', link: './rush'}
     ];
 
     let rightItems = [
@@ -68,6 +69,7 @@ function MobileFullScreen({setIsOpen}: SetIsOpenProp) {
         {title: 'Home', link: './'},
         {title: 'About', link: './about'},
         {title: 'Scholarships', link: './scholarships'},
+        {title: 'Rush', link: './rush'},
         {title: 'Donations', link: './donations'},
         {title: 'Newsletter', link: './newsletter'}
     ];
